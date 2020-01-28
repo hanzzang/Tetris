@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<SMTetrisSettings init.level0="0" init.level1="0" tetris.mode="SINGLE">
+  <tetris.rank date="1547210456953" level="0" lines="0" name="" score="520"/>
+  <tetris.rank date="1547210456953" level="0" lines="2" name="" score="510"/>
+  <tetris.rank date="1547122916939" level="0" lines="0" name="HAN" score="210"/>
+  <tetris.rank date="1547449468171" level="0" lines="0" name="test" score="210"/>
+  <tetris.rank date="1571630338876" level="0" lines="0" name="hnleeit" score="210"/>
+  <tetris.rank date="1547517416965" level="0" lines="0" name="     " score="200"/>
+  <tetris.rank date="1547122916939" level="0" lines="0" name="" score="40"/>
+  <tetris.rank date="1547116809342" level="0" lines="0" name="" score="0"/>
+  <tetris.rank date="1547116968343" level="0" lines="0" name="" score="0"/>
+  <tetris.rank date="1547117519235" level="0" lines="0" name="" score="0"/>
+  <tetris.rank date="1547121962679" level="0" lines="0" name="" score="0"/>
+  <tetris.rank date="1547122099028" level="0" lines="0" name="" score="0"/>
+  <tetris.rank date="1547122592805" level="0" lines="0" name="" score="0"/>
+</SMTetrisSettings>
